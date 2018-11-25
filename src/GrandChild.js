@@ -5,7 +5,7 @@ class GC extends Component {
  render() {
    return (
      <div>
-       <h1>Child!</h1>
+       <h1>Grand Child!</h1>
      </div>
    );
  }
